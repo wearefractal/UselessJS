@@ -1,0 +1,37 @@
+{
+	"name": "useless",
+	"description": "NodeJS framework that does everything and nothing at the same time",
+	"version": "0.0.1",
+	"homepage": "http://github.com/Contra/UselessJS",
+	"keywords": ["node", "framework", "awesome", "bro"],
+	"author": "Contra <contra@australia.edu> (http://wearefractal.com)",
+	"main": "./lib/useless.coffee",
+	"directories": {
+		"lib": "./lib"
+	},
+	"bugs": {
+		"mail": "contra@australia.edu",
+		"web": "http://github.com/Contra/UselessJS/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/Contra/UselessJS/.git"
+	},
+	"dependencies": {
+		"coffee-script": "*"
+	},
+	"contributors": [{
+		"name": "Contra",
+		"github": "https://github.com/Contra"
+	}, {
+		"name": "Aaron Murray",
+		"github": "https://github.com/amurray"
+	}],
+	"engines": {
+		"node": "*"
+	},
+	"licenses": [{
+		"type": "MIT",
+		"url": "http://github.com/Contra/UselessJS/raw/master/LICENSE"
+	}]
+}
