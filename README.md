@@ -1,4 +1,4 @@
-**node-fusker is a library to prevent and manage a multitude of attacks in nodejs**
+**UselessJS is a full stack NodeJS framework**
 
 To install UselessJS, use [npm](http://github.com/isaacs/npm):
 
@@ -7,11 +7,6 @@ To install UselessJS, use [npm](http://github.com/isaacs/npm):
 ## Example
 
 Please see [the example folder](http://github.com/Contra/UselessJS/blob/master/example/) for working examples and documentation.
-	
-## Contributors
-
-- [Contra](https://github.com/Contra)
-- [Aaron Murray](https://github.com/amurray)
 
 ## LICENSE
 
@@ -37,3 +32,4 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+

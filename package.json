@@ -1,7 +1,7 @@
 {
 	"name": "useless",
 	"description": "NodeJS framework that does everything and nothing at the same time",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"homepage": "http://github.com/Contra/UselessJS",
 	"keywords": ["node", "framework", "awesome", "bro"],
 	"author": "Contra <contra@australia.edu> (http://wearefractal.com)",
@@ -35,3 +35,4 @@
 		"url": "http://github.com/Contra/UselessJS/raw/master/LICENSE"
 	}]
 }
+
