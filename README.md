@@ -6,7 +6,7 @@ To install UselessJS, use [npm](http://github.com/isaacs/npm):
 
 ## Example
 
-Please see [the example folder](http://github.com/Contra/UselessJS/blob/master/example/) for working examples and documentation.
+Please see [the example folder](http://github.com/wearefractal/UselessJS/blob/master/example/) for working examples and documentation.
 
 ## LICENSE
 
